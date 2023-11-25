@@ -177,3 +177,21 @@
 25/11/2023 11:00:16 AM WARNING The geckodriver version (0.31.0) detected in PATH at C:\Program Files\Python310\Scripts\geckodriver.exe might not be compatible with the detected firefox version (120.0); currently, geckodriver 0.33.0 is recommended for firefox 120.*, so it is advised to delete the driver in PATH and retry
 25/11/2023 11:00:21 AM INFO  *********** Verifing Recover password link *********** 
 25/11/2023 11:00:27 AM INFO  *********** Recover password link TestCase Passed *********** 
+25/11/2023 11:05:10 AM WARNING The geckodriver version (0.31.0) detected in PATH at C:\Program Files\Python310\Scripts\geckodriver.exe might not be compatible with the detected firefox version (120.0); currently, geckodriver 0.33.0 is recommended for firefox 120.*, so it is advised to delete the driver in PATH and retry
+25/11/2023 11:05:16 AM INFO  *********** Verifing Logout button *********** 
+25/11/2023 11:05:28 AM INFO  *********** Logout TestCase Passed *********** 
+25/11/2023 11:05:30 AM WARNING The geckodriver version (0.31.0) detected in PATH at C:\Program Files\Python310\Scripts\geckodriver.exe might not be compatible with the detected firefox version (120.0); currently, geckodriver 0.33.0 is recommended for firefox 120.*, so it is advised to delete the driver in PATH and retry
+25/11/2023 11:05:35 AM INFO  *********** Verifing loginPageURL *********** 
+25/11/2023 11:05:39 AM INFO  *********** loginPageURL TestCase Passed *********** 
+25/11/2023 11:05:41 AM WARNING The geckodriver version (0.31.0) detected in PATH at C:\Program Files\Python310\Scripts\geckodriver.exe might not be compatible with the detected firefox version (120.0); currently, geckodriver 0.33.0 is recommended for firefox 120.*, so it is advised to delete the driver in PATH and retry
+25/11/2023 11:05:47 AM INFO  *********** Verifing loginPageTitle *********** 
+25/11/2023 11:05:50 AM INFO  *********** loginPageTitle TestCase Passed *********** 
+25/11/2023 11:05:52 AM WARNING The geckodriver version (0.31.0) detected in PATH at C:\Program Files\Python310\Scripts\geckodriver.exe might not be compatible with the detected firefox version (120.0); currently, geckodriver 0.33.0 is recommended for firefox 120.*, so it is advised to delete the driver in PATH and retry
+25/11/2023 11:05:57 AM INFO  *********** Verifing login using valid credentials *********** 
+25/11/2023 11:06:07 AM INFO  *********** login using valid credentials TestCase Passed *********** 
+25/11/2023 11:06:10 AM WARNING The geckodriver version (0.31.0) detected in PATH at C:\Program Files\Python310\Scripts\geckodriver.exe might not be compatible with the detected firefox version (120.0); currently, geckodriver 0.33.0 is recommended for firefox 120.*, so it is advised to delete the driver in PATH and retry
+25/11/2023 11:06:15 AM INFO  *********** Verifing login using invalid credentials *********** 
+25/11/2023 11:06:20 AM INFO  *********** login using invalid credentials TestCase Passed *********** 
+25/11/2023 11:06:23 AM WARNING The geckodriver version (0.31.0) detected in PATH at C:\Program Files\Python310\Scripts\geckodriver.exe might not be compatible with the detected firefox version (120.0); currently, geckodriver 0.33.0 is recommended for firefox 120.*, so it is advised to delete the driver in PATH and retry
+25/11/2023 11:06:28 AM INFO  *********** Verifing Recover password link *********** 
+25/11/2023 11:06:32 AM INFO  *********** Recover password link TestCase Passed *********** 
