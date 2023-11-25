@@ -141,3 +141,21 @@
 25/11/2023 09:23:53 AM INFO  *********** Logout TestCase Passed *********** 
 25/11/2023 09:24:40 AM WARNING The chromedriver version (117.0.5938.149) detected in PATH at C:\Program Files\Python310\Scripts\chromedriver.exe might not be compatible with the detected chrome version (118.0.5993.89); currently, chromedriver 118.0.5993.70 is recommended for chrome 118.*, so it is advised to delete the driver in PATH and retry
 25/11/2023 09:24:42 AM INFO  *********** Verifing Logout button *********** 
+25/11/2023 10:14:49 AM WARNING The chromedriver version (117.0.5938.149) detected in PATH at C:\Program Files\Python310\Scripts\chromedriver.exe might not be compatible with the detected chrome version (118.0.5993.89); currently, chromedriver 118.0.5993.70 is recommended for chrome 118.*, so it is advised to delete the driver in PATH and retry
+25/11/2023 10:14:50 AM INFO  *********** Verifing Logout button *********** 
+25/11/2023 10:15:01 AM INFO  *********** Logout TestCase Passed *********** 
+25/11/2023 10:15:03 AM WARNING The chromedriver version (117.0.5938.149) detected in PATH at C:\Program Files\Python310\Scripts\chromedriver.exe might not be compatible with the detected chrome version (118.0.5993.89); currently, chromedriver 118.0.5993.70 is recommended for chrome 118.*, so it is advised to delete the driver in PATH and retry
+25/11/2023 10:15:04 AM INFO  *********** Verifing loginPageURL *********** 
+25/11/2023 10:15:06 AM INFO  *********** loginPageURL TestCase Passed *********** 
+25/11/2023 10:15:09 AM WARNING The chromedriver version (117.0.5938.149) detected in PATH at C:\Program Files\Python310\Scripts\chromedriver.exe might not be compatible with the detected chrome version (118.0.5993.89); currently, chromedriver 118.0.5993.70 is recommended for chrome 118.*, so it is advised to delete the driver in PATH and retry
+25/11/2023 10:15:10 AM INFO  *********** Verifing loginPageTitle *********** 
+25/11/2023 10:15:12 AM INFO  *********** loginPageTitle TestCase Passed *********** 
+25/11/2023 10:15:14 AM WARNING The chromedriver version (117.0.5938.149) detected in PATH at C:\Program Files\Python310\Scripts\chromedriver.exe might not be compatible with the detected chrome version (118.0.5993.89); currently, chromedriver 118.0.5993.70 is recommended for chrome 118.*, so it is advised to delete the driver in PATH and retry
+25/11/2023 10:15:15 AM INFO  *********** Verifing login using valid credentials *********** 
+25/11/2023 10:15:22 AM INFO  *********** login using valid credentials TestCase Passed *********** 
+25/11/2023 10:15:24 AM WARNING The chromedriver version (117.0.5938.149) detected in PATH at C:\Program Files\Python310\Scripts\chromedriver.exe might not be compatible with the detected chrome version (118.0.5993.89); currently, chromedriver 118.0.5993.70 is recommended for chrome 118.*, so it is advised to delete the driver in PATH and retry
+25/11/2023 10:15:25 AM INFO  *********** Verifing login using invalid credentials *********** 
+25/11/2023 10:15:29 AM INFO  *********** login using invalid credentials TestCase Passed *********** 
+25/11/2023 10:15:32 AM WARNING The chromedriver version (117.0.5938.149) detected in PATH at C:\Program Files\Python310\Scripts\chromedriver.exe might not be compatible with the detected chrome version (118.0.5993.89); currently, chromedriver 118.0.5993.70 is recommended for chrome 118.*, so it is advised to delete the driver in PATH and retry
+25/11/2023 10:15:33 AM INFO  *********** Verifing Recover password link *********** 
+25/11/2023 10:15:36 AM INFO  *********** Recover password link TestCase Passed *********** 
