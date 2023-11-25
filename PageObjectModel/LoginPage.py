@@ -14,6 +14,8 @@ class Loginpage:
         self.driver = driver
         self.actions = ActionChains(self.driver)
         self.wait = WebDriverWait(self.driver, 10)
+    def login(self):
+
 
     def EnterEmail(self):
         self.driver.find_element(By.XPATH, self.email).click()
