@@ -195,3 +195,54 @@
 25/11/2023 11:06:23 AM WARNING The geckodriver version (0.31.0) detected in PATH at C:\Program Files\Python310\Scripts\geckodriver.exe might not be compatible with the detected firefox version (120.0); currently, geckodriver 0.33.0 is recommended for firefox 120.*, so it is advised to delete the driver in PATH and retry
 25/11/2023 11:06:28 AM INFO  *********** Verifing Recover password link *********** 
 25/11/2023 11:06:32 AM INFO  *********** Recover password link TestCase Passed *********** 
+27/11/2023 11:10:30 AM INFO  *********** Verifing Logout button *********** 
+27/11/2023 11:19:45 AM INFO  *********** Verifing Logout button *********** 
+27/11/2023 11:19:52 AM INFO  *********** Patients menu button TestCase Passed *********** 
+27/11/2023 12:28:51 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 12:28:58 PM ERROR  *********** Patients menu button TestCase Failed *********** 
+27/11/2023 12:29:53 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 12:30:00 PM ERROR  *********** Patients menu button TestCase Failed *********** 
+27/11/2023 12:30:32 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 12:30:42 PM ERROR  *********** Patients menu button TestCase Failed *********** 
+27/11/2023 12:32:28 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 12:32:38 PM ERROR  *********** Patients menu button TestCase Failed *********** 
+27/11/2023 12:32:55 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 12:33:05 PM ERROR  *********** Patients menu button TestCase Failed *********** 
+27/11/2023 12:33:49 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 12:33:59 PM ERROR  *********** Patients menu button TestCase Failed *********** 
+27/11/2023 12:35:31 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 12:35:43 PM INFO  *********** Patients menu button TestCase Passed *********** 
+27/11/2023 03:14:45 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 03:15:37 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 03:17:02 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 03:19:17 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 03:22:25 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 03:25:18 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 03:26:02 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 03:26:49 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 03:32:16 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 03:33:42 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 03:34:02 PM INFO  *********** Add Patients TestCase Passed *********** 
+27/11/2023 03:38:45 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 03:45:42 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 03:46:35 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 03:48:50 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 03:49:52 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 03:50:11 PM INFO  *********** Add Patients TestCase Passed *********** 
+27/11/2023 03:53:54 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 03:54:13 PM ERROR  *********** Add Patients detail TestCase Failed *********** 
+27/11/2023 03:58:40 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 03:58:59 PM INFO  *********** Add Patients TestCase Passed *********** 
+27/11/2023 04:00:03 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 04:03:13 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 04:08:18 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 04:10:04 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 04:10:23 PM INFO  *********** Add Patients TestCase Passed *********** 
+27/11/2023 04:10:45 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 04:11:04 PM ERROR  *********** Add Patients button TestCase Failed *********** 
+27/11/2023 04:12:05 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 04:12:24 PM ERROR  *********** Add Patients button TestCase Failed *********** 
+27/11/2023 04:36:35 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 04:36:55 PM INFO  *********** Add Patients TestCase Passed *********** 
+27/11/2023 04:38:02 PM INFO  *********** Verifing Logout button *********** 
+27/11/2023 04:38:21 PM INFO  *********** Add Patients TestCase Passed *********** 
