@@ -21,55 +21,55 @@ class Test_AddPatient:
     logger = logGen.logGen()
     path = 'Testdata/patientsDetail.xlsx'
 
-    # def test_Patientmenubutton(self, setup):
-    #     self.logger.info(" *********** Verifing Logout button *********** ")
-    #     self.driver = setup
-    #     self.driver.get(self.baseURL)
-    #     self.LP = Loginpage(self.driver)
-    #     self.LP.EnterEmail()
-    #     self.LP.EnterPassword()
-    #     self.LP.ClickLoginbutton()
-    #     sleep(5)
-    #     self.HP = Homepage(self.driver)
-    #     self.HP.clickPatientmenubtn()
-    #     Page_title = self.driver.find_element(By.XPATH,'//div[@class="title"]').text
-    #
-    #     if 'Patient' in Page_title:
-    #         assert True
-    #         self.driver.close()
-    #         self.logger.info(" *********** Patients menu button TestCase Passed *********** ")
-    #     else:
-    #         self.driver.save_screenshot("D:\pythonProject\Screenshots\\" + "test_loginPageURL.png")
-    #         allure.attach(self.driver.get_screenshot_as_png(), name="test_loginPageURL.png",attachment_type=AttachmentType.PNG)
-    #         self.driver.close()
-    #         self.logger.error(" *********** Patients menu button TestCase Failed *********** ")
-    #         assert False
-    # def test_ADDPatientbutton(self, setup):
-    #     self.logger.info(" *********** Verifing Logout button *********** ")
-    #     self.driver = setup
-    #     self.driver.get(self.baseURL)
-    #     self.LP = Loginpage(self.driver)
-    #     self.LP.EnterEmail()
-    #     self.LP.EnterPassword()
-    #     self.LP.ClickLoginbutton()
-    #     sleep(5)
-    #     self.HP = Homepage(self.driver)
-    #     self.HP.clickPatientmenubtn()
-    #     sleep(3)
-    #     self.HP.clickAddPatientbtn()
-    #     sleep(2)
-    #     Page_url = self.driver.current_url
-    #
-    #     if 'add' in Page_url:
-    #         assert True
-    #         self.driver.close()
-    #         self.logger.info(" *********** Patients menu button TestCase Passed *********** ")
-    #     else:
-    #         self.driver.save_screenshot("D:\pythonProject\Screenshots\\" + "test_loginPageURL.png")
-    #         allure.attach(self.driver.get_screenshot_as_png(), name="test_loginPageURL.png",attachment_type=AttachmentType.PNG)
-    #         self.driver.close()
-    #         self.logger.error(" *********** Patients menu button TestCase Failed *********** ")
-    #         assert False
+    def test_Patientmenubutton(self, setup):
+        self.logger.info(" *********** Verifing Logout button *********** ")
+        self.driver = setup
+        self.driver.get(self.baseURL)
+        self.LP = Loginpage(self.driver)
+        self.LP.EnterEmail()
+        self.LP.EnterPassword()
+        self.LP.ClickLoginbutton()
+        sleep(5)
+        self.HP = Homepage(self.driver)
+        self.HP.clickPatientmenubtn()
+        Page_title = self.driver.find_element(By.XPATH,'//div[@class="title"]').text
+    
+        if 'Patient' in Page_title:
+            assert True
+            self.driver.close()
+            self.logger.info(" *********** Patients menu button TestCase Passed *********** ")
+        else:
+            self.driver.save_screenshot("D:\pythonProject\Screenshots\\" + "test_loginPageURL.png")
+            allure.attach(self.driver.get_screenshot_as_png(), name="test_loginPageURL.png",attachment_type=AttachmentType.PNG)
+            self.driver.close()
+            self.logger.error(" *********** Patients menu button TestCase Failed *********** ")
+            assert False
+    def test_ADDPatientbutton(self, setup):
+        self.logger.info(" *********** Verifing Logout button *********** ")
+        self.driver = setup
+        self.driver.get(self.baseURL)
+        self.LP = Loginpage(self.driver)
+        self.LP.EnterEmail()
+        self.LP.EnterPassword()
+        self.LP.ClickLoginbutton()
+        sleep(5)
+        self.HP = Homepage(self.driver)
+        self.HP.clickPatientmenubtn()
+        sleep(3)
+        self.HP.clickAddPatientbtn()
+        sleep(2)
+        Page_url = self.driver.current_url
+    
+        if 'add' in Page_url:
+            assert True
+            self.driver.close()
+            self.logger.info(" *********** Patients menu button TestCase Passed *********** ")
+        else:
+            self.driver.save_screenshot("D:\pythonProject\Screenshots\\" + "test_loginPageURL.png")
+            allure.attach(self.driver.get_screenshot_as_png(), name="test_loginPageURL.png",attachment_type=AttachmentType.PNG)
+            self.driver.close()
+            self.logger.error(" *********** Patients menu button TestCase Failed *********** ")
+            assert False
     def test_ADDPatientdetails(self, setup):
         self.logger.info(" *********** Verifing Logout button *********** ")
         self.driver = setup
